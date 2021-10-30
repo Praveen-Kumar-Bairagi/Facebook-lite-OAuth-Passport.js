@@ -1,0 +1,20 @@
+{
+  "name": "facebook-lite-oauth-passport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.12",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.14",
+    "passport": "^0.5.0",
+    "passport-facebook": "^3.0.0"
+  }
+}
